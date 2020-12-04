@@ -1,0 +1,5 @@
+matplotlib==3.3.3
+wordcloud==1.8.1
+pdfplumber==0.5.24
+nltk==3.5
+pandas==1.1.4
